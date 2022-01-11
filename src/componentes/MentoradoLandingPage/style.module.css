@@ -1,0 +1,15 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 187px;
+}
+.texto{
+    width: 468px;
+    font-family: 'Jost';
+    font-size: 56px;
+    line-height: 68px;
+    color: var(--darkest);
+    text-align: left;
+}

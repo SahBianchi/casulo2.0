@@ -1,13 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400&display=swap');
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue','Poppins', 'Jost',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+:root{
+  --primary_brand: #626A7F;
+  --primary_brand_dark: #3D465E;
+  --secondary_brand: #F69050;
+  --secondary_brand_dark: #E0712C;
+  --highlight: #629292;
+  --highlight_dark: #2DA069;
+  --highlight_darkest: #3B5757;
+  --highlight_secondary: #A0505A;
+  --success: #53BF85;
+  --info: #507EF6;
+  --warning:#F6C850;
+  --danger: #F65050;
+  --lightest: #FFFFFF;
+  --light: #FFF9F0;
+  --medium:#F5E4D4;
+  --medium-plus:#BEC6DD;
+  --dark: #8D98B4;
+  --darkest: #1C212F;
 }
+
+

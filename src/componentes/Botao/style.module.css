@@ -1,0 +1,29 @@
+.primario{
+    font-family: 'poppins';
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    height: 45px;
+    line-height: 45px;
+    margin: 0 auto;
+    width: 70%;
+    background-color: #88BFBF;
+    text-transform: uppercase;
+}
+
+.secundario{
+    font-family: 'poppins';
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    height: 45px;
+    line-height: 45px;
+    margin: 0 auto;
+    width: 70%;
+    background-color: #F69050;
+    text-transform: uppercase;
+}
